@@ -1,7 +1,6 @@
 "use client";
 
 import React from 'react'
-import Link from "next/link";
 import img6 from "../../assets/images/img6.png"
 import Image from 'next/image';
 

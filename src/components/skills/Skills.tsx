@@ -25,7 +25,7 @@ const Skills = () => {
 
   return (
     <div id='skills'>
-    <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 bg-100">
+    <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 bg-100 ">
       <div className="text-center">
           <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-sky-400 uppercase rounded-full bg-teal-accent-400">
           Skills and experiences
